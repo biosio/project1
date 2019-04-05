@@ -104,13 +104,14 @@ html {
   }
   
   .trump {
-    background: url(" ") bottom center no-repeat;
+    background: url(Trump.jpg) bottom center no-repeat;
     background-size: 70%;
     position: absolute;
     top: 100%;
     width: 100%;
     height: 90%;
     transition:all 0.4s;
+    cursor: pointer;
   }
   
   .loch.up .trump {
